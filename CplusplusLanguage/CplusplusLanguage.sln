@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CplusplusLanguage", "CplusplusLanguage\CplusplusLanguage.vcxproj", "{44EE443F-985F-435C-92BE-BC3105D4FC20}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cplusplus_Part1", "Cplusplus_Part1\Cplusplus_Part1.vcxproj", "{73D32F5E-0CCA-4390-9B11-6E5C3F487264}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{44EE443F-985F-435C-92BE-BC3105D4FC20}.Release|x64.Build.0 = Release|x64
 		{44EE443F-985F-435C-92BE-BC3105D4FC20}.Release|x86.ActiveCfg = Release|Win32
 		{44EE443F-985F-435C-92BE-BC3105D4FC20}.Release|x86.Build.0 = Release|Win32
+		{73D32F5E-0CCA-4390-9B11-6E5C3F487264}.Debug|x64.ActiveCfg = Debug|x64
+		{73D32F5E-0CCA-4390-9B11-6E5C3F487264}.Debug|x64.Build.0 = Debug|x64
+		{73D32F5E-0CCA-4390-9B11-6E5C3F487264}.Debug|x86.ActiveCfg = Debug|Win32
+		{73D32F5E-0CCA-4390-9B11-6E5C3F487264}.Debug|x86.Build.0 = Debug|Win32
+		{73D32F5E-0CCA-4390-9B11-6E5C3F487264}.Release|x64.ActiveCfg = Release|x64
+		{73D32F5E-0CCA-4390-9B11-6E5C3F487264}.Release|x64.Build.0 = Release|x64
+		{73D32F5E-0CCA-4390-9B11-6E5C3F487264}.Release|x86.ActiveCfg = Release|Win32
+		{73D32F5E-0CCA-4390-9B11-6E5C3F487264}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
