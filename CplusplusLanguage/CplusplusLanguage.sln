@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CplusplusLanguage", "Cplusp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cplusplus_Part1", "Cplusplus_Part1\Cplusplus_Part1.vcxproj", "{73D32F5E-0CCA-4390-9B11-6E5C3F487264}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cplusplus_Part2", "Cplusplus_Part2\Cplusplus_Part2.vcxproj", "{ABD4AB77-945E-43C0-BC6B-7A5FC3E6EE82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{73D32F5E-0CCA-4390-9B11-6E5C3F487264}.Release|x64.Build.0 = Release|x64
 		{73D32F5E-0CCA-4390-9B11-6E5C3F487264}.Release|x86.ActiveCfg = Release|Win32
 		{73D32F5E-0CCA-4390-9B11-6E5C3F487264}.Release|x86.Build.0 = Release|Win32
+		{ABD4AB77-945E-43C0-BC6B-7A5FC3E6EE82}.Debug|x64.ActiveCfg = Debug|x64
+		{ABD4AB77-945E-43C0-BC6B-7A5FC3E6EE82}.Debug|x64.Build.0 = Debug|x64
+		{ABD4AB77-945E-43C0-BC6B-7A5FC3E6EE82}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABD4AB77-945E-43C0-BC6B-7A5FC3E6EE82}.Debug|x86.Build.0 = Debug|Win32
+		{ABD4AB77-945E-43C0-BC6B-7A5FC3E6EE82}.Release|x64.ActiveCfg = Release|x64
+		{ABD4AB77-945E-43C0-BC6B-7A5FC3E6EE82}.Release|x64.Build.0 = Release|x64
+		{ABD4AB77-945E-43C0-BC6B-7A5FC3E6EE82}.Release|x86.ActiveCfg = Release|Win32
+		{ABD4AB77-945E-43C0-BC6B-7A5FC3E6EE82}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
