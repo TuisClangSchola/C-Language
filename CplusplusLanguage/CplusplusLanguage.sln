@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cplusplus_Part1", "Cplusplu
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cplusplus_Part2", "Cplusplus_Part2\Cplusplus_Part2.vcxproj", "{ABD4AB77-945E-43C0-BC6B-7A5FC3E6EE82}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cplusplus_Part3", "Cplusplus_Part3\Cplusplus_Part3.vcxproj", "{077E7D73-4B30-4244-AAAF-783E67E1A5DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{ABD4AB77-945E-43C0-BC6B-7A5FC3E6EE82}.Release|x64.Build.0 = Release|x64
 		{ABD4AB77-945E-43C0-BC6B-7A5FC3E6EE82}.Release|x86.ActiveCfg = Release|Win32
 		{ABD4AB77-945E-43C0-BC6B-7A5FC3E6EE82}.Release|x86.Build.0 = Release|Win32
+		{077E7D73-4B30-4244-AAAF-783E67E1A5DA}.Debug|x64.ActiveCfg = Debug|x64
+		{077E7D73-4B30-4244-AAAF-783E67E1A5DA}.Debug|x64.Build.0 = Debug|x64
+		{077E7D73-4B30-4244-AAAF-783E67E1A5DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{077E7D73-4B30-4244-AAAF-783E67E1A5DA}.Debug|x86.Build.0 = Debug|Win32
+		{077E7D73-4B30-4244-AAAF-783E67E1A5DA}.Release|x64.ActiveCfg = Release|x64
+		{077E7D73-4B30-4244-AAAF-783E67E1A5DA}.Release|x64.Build.0 = Release|x64
+		{077E7D73-4B30-4244-AAAF-783E67E1A5DA}.Release|x86.ActiveCfg = Release|Win32
+		{077E7D73-4B30-4244-AAAF-783E67E1A5DA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
